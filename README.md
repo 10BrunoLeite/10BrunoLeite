@@ -7,11 +7,7 @@ Sou apaixonado por tecnologia e venho desenvolvendo meus conhecimentos na área 
 Atualmente, estou colocando meus conhecimentos em prática através de projetos próprios, buscando transformar problemas reais em soluções utilizando programação.
 
 🚀 Sobre mim
-
-Tenho experiência profissional com atendimento no backoffice, relacionamento com clientes, suporte e liderança, além de estar direcionando minha carreira cada vez mais para a área de tecnologia.
-
 🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS) - 4º Semestre
-💼 Desenvolvedor
 🚀 Buscando evolução técnica contínua e melhores práticas em engenharia de software.
 
 Minha experiência profissional me ajudou a desenvolver habilidades como:
@@ -26,23 +22,20 @@ Minha experiência profissional me ajudou a desenvolver habilidades como:
 
 Paralelamente à experiência profissional, venho construindo minha base técnica através de estudos e projetos práticos.
 
-💻 Tecnologias e conhecimentos
-🌐 Desenvolvimento Web
+💻🌐  Tecnologias e conhecimentos:
+Desenvolvimento Web
 HTML5
 CSS3
 JavaScript
 PHP
-React
-Tailwind CSS
-Node.js
-🗄️ Banco de Dados
+Banco de Dados
 SQL
 MySQL
 phpMyAdmin
 Modelagem e organização de dados
 CRUD
 Consultas e relacionamentos
-🐍 Programação
+🐍
 Python
 Java
 PHP
