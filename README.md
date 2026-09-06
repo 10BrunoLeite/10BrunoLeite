@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, APAIXONADO POR TECNOLOGIA, atualmente direcionando meus estudos para o desenvolvimento **Back-End/FullStack**
+**APAIXONADO POR TECNOLOGIA**, atualmente direcionando meus estudos para o desenvolvimento **Back-End/FullStack**
 
 Tenho interesse em compreender não apenas a linguagem, mas também os fundamentos que fazem parte da construção de aplicações, como **lógica de programação, algoritmos, orientação a objetos, estruturas de dados e bancos de dados**.
 
