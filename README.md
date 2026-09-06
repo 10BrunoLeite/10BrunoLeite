@@ -39,12 +39,12 @@ Além da área de desenvolvimento, possuo experiência prática com **manutenç�
 🌱 Spring Boot
 🔀 Git & GitHub
 🚀 Desenvolvimento de projetos Full Stack
-💼 [[Meu LinkedIn](https://www.linkedin.com/in/bruno-leite-485415151/)]
+
 ---
 ## 🚀 Projetos
 
 Estou utilizando este GitHub para documentar minha evolução na programação e transformar meus estudos em projetos práticos.
-
+💼 [[Meu LinkedIn](https://www.linkedin.com/in/bruno-leite-485415151/)]
 ### 🔜 Próximos projetos
 
 - 🧠 Exercícios de Lógica de Programação
