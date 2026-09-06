@@ -2,6 +2,8 @@
 
 # 👋 Olá! Eu sou Bruno Leite
 
+💼 [[Meu LinkedIn](https://www.linkedin.com/in/bruno-leite-485415151/)]
+
 ### 🎓 Desenvolvedor em formação | Tecnologia, Dados e Desenvolvimento Web
 
 💻**Cursando Análise e Desenvolvimento de Sistemas (ADS) - 4º Semestre 🚀**  
