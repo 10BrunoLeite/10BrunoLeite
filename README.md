@@ -1,124 +1,120 @@
-👋 Olá, eu sou o Bruno!
+from pathlib import Path
 
-💻 Desenvolvedor em formação | Tecnologia, Dados e Desenvolvimento Web
+readme = r'''<div align="center">
 
-Sou apaixonado por tecnologia e venho desenvolvendo meus conhecimentos na área de programação, com foco principalmente em desenvolvimento web, bancos de dados, automação e análise de dados.
+# 👋 Olá! Eu sou Bruno Leite
 
-Atualmente, estou colocando meus conhecimentos em prática através de projetos próprios, buscando transformar problemas reais em soluções utilizando programação.
+### 🎓 Desenvolvedor em formação | Tecnologia, Dados e Desenvolvimento Web
 
-🚀 Sobre mim
-🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS) - 4º Semestre
-🚀 Buscando evolução técnica contínua e melhores práticas em engenharia de software.
+💻**Cursando Análise e Desenvolvimento de Sistemas (ADS) - 4º Semestre 🚀**  
+🚀 Em busca de evolução constante na área de **Desenvolvimento de Software**  
+🔧 Experiência prática com **manutenção de computadores e suporte técnico**  
+📚 Construindo projetos para transformar conhecimento em prática
 
-Minha experiência profissional me ajudou a desenvolver habilidades como:
+</div>
 
-🤝 Atendimento e relacionamento com clientes
-🧩 Resolução de problemas
-📊 Análise de informações
-🧠 Raciocínio lógico
-👥 Trabalho em equipe
-🎯 Organização e acompanhamento de processos
-💻 Utilização de sistemas e ferramentas corporativas
+---
 
-Paralelamente à experiência profissional, venho construindo minha base técnica através de estudos e projetos práticos.
+## 🧑‍💻 Sobre mim
 
-💻🌐  Tecnologias e conhecimentos:
-Desenvolvimento Web
-HTML5
-CSS3
-JavaScript
-PHP
-Banco de Dados
-SQL
-MySQL
-phpMyAdmin
-Modelagem e organização de dados
-CRUD
-Consultas e relacionamentos
-🐍
-Python
-Java
-PHP
-JavaScript
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, APAIXONADO POR TECNOLOGIA, atualmente direcionando meus estudos para o desenvolvimento **Back-End/FullStack**
 
+Tenho interesse em compreender não apenas a linguagem, mas também os fundamentos que fazem parte da construção de aplicações, como **lógica de programação, algoritmos, orientação a objetos, estruturas de dados e bancos de dados**.
 
-Tenho praticado conceitos como:
+Além da área de desenvolvimento, possuo experiência prática com **manutenção de computadores e suporte técnico 🐘 PHP 🐍 Python 🗄️ SQL e MySQL 🌐 Desenvolvimento Web ⚛️ React 🟢 Node.js 📊 Power BI 🔧 Git e GitHub 🧠 Lógica e arquitetura de sistemas**
 
-Estruturas condicionais
-Laços de repetição
-Funções
-Listas e dicionários
-Manipulação de dados
-Validação de informações
-Integração entre sistemas
-Lógica de programação
-📊 Dados e BI
-Power BI
-Tableau
-Databricks
-SQL
-Análise de dados
-🛠️ Ferramentas
-Git
-GitHub
-VS Code
-Sublime Text
-XAMPP
-MySQL
-phpMyAdmin
-🎫 Sistemas e CRM
+🎯 **Meu objetivo:** evoluir constantemente como desenvolvedor e, futuramente, atuar profissionalmente como **Desenvolvedor Back-End**.
 
-Experiência com ferramentas e plataformas utilizadas em ambientes corporativos:
+---
 
-Zendesk
-Salesforce
-🏦 Projeto em destaque — Sistema de Chamados TecBan
+## 🛠️ Tecnologias & Conhecimentos
 
-Um dos projetos que estou desenvolvendo é um sistema de abertura e consulta de chamados, criado para praticar o desenvolvimento de uma aplicação web completa.
-O projeto foi desenvolvido com o objetivo de aproximar meus estudos de uma aplicação utilizada em um cenário real, trabalhando desde a interface até o banco de dados e a lógica do back-end.
+<div align="center">
 
-📚 Atualmente estudando
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
-Estou continuamente aprimorando meus conhecimentos em:
+</div>
 
+### 📚✅ Conhecimentos e tecnologias
+---
+🧠 Lógica de Programação
+🔢 Algoritmos
+🌐 HTML5 & CSS3
 🐘 PHP
 🐍 Python
-🗄️ SQL e MySQL
-🌐 Desenvolvimento Web
-⚛️ React
-🟢 Node.js
-📊 Power BI
-🔧 Git e GitHub
-🧠 Lógica e arquitetura de sistemas
+☕ Java
+🟨 JavaScript
+🏗️ Programação Orientada a Objetos (POO)
+🌳 Estruturas de Dados
+🗄️ SQL & MySQL
+💾 Fundamentos de Banco de Dados
+🌱 Spring Boot
+🔀 Git & GitHub
+🚀 Desenvolvimento de projetos Full Stack
 
-Meu objetivo é evoluir cada vez mais na construção de aplicações, APIs, sistemas integrados e soluções baseadas em dados.
+---
+## 🚀 Projetos
 
-🎯 Objetivo profissional
+Estou utilizando este GitHub para documentar minha evolução na programação e transformar meus estudos em projetos práticos.
 
-Busco oportunidades na área de Tecnologia, especialmente em posições relacionadas a:
+### 🔜 Próximos projetos
 
-Desenvolvimento Web
-Desenvolvimento Back-end
-Suporte Técnico / Sistemas
-Banco de Dados
-SQL
-Dados e BI
-Desenvolvimento de aplicações
+- 🧠 Exercícios de Lógica de Programação
+- ☕ Projetos práticos em Java
+- 🏗️ Sistema utilizando Programação Orientada a Objetos
+- 🗄️ Projeto integrado com Banco de Dados
+- 🌐 API REST utilizando Spring Boot
+- 🚀 Projetos Back-End completos
 
-Tenho como objetivo unir minha experiência profissional com meus conhecimentos técnicos para resolver problemas, automatizar processos e desenvolver soluções úteis para o negócio.
+> Cada projeto será utilizado como uma oportunidade para colocar em prática os conceitos estudados e acompanhar minha evolução como desenvolvedor.
+---
 
-📈 Em constante evolução
+## 💻 Experiência além do desenvolvimento
 
-Este GitHub representa parte da minha jornada de aprendizado.
+🔧 **Manutenção de computadores**
 
-Aqui você encontrará projetos, experimentos, estudos e aplicações desenvolvidas enquanto continuo evoluindo como profissional de tecnologia.
+Possuo experiência prática com manutenção de computadores, incluindo diagnóstico de problemas, configuração de sistemas e suporte técnico.
 
-Aprender programação é transformar problemas em lógica e lógica em soluções. 🚀
+Essa experiência também contribuiu para desenvolver minha capacidade de **análise, resolução de problemas e aprendizado de novas tecnologias**.
 
-📫 Conecte-se comigo
+---
 
-💼 LinkedIn: [[Seu LinkedIn]](https://www.linkedin.com/in/bruno-leite-485415151/)
+## 📊 Estatísticas do GitHub
 
-🐙 GitHub: [[Seu GitHub]](https://github.com/10BrunoLeite)
+<div align="center">
 
-⭐ Se algum projeto aqui for útil para você, fique à vontade para explorar!
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Brmaced&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brmaced&layout=compact&langs_count=7&theme=react"/>
+
+</div>
+
+---
+
+## 📈 Minha jornada
+
+```text
+Lógica de Programação
+        ↓
+     Algoritmos
+        ↓
+       Java
+        ↓
+       Python
+        ↓
+Programação Orientada a Objetos
+        ↓
+ Banco de Dados | SQL | MySQL
+        ↓
+    Spring Boot <- Estou aqui
+        ↓
+      APIs REST
+        ↓
+   Desenvolvimento
+      Back-End 🚀
