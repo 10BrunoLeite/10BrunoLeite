@@ -1,9 +1,6 @@
 <div align="center">
 
 # 👋 Olá! Eu sou Bruno Leite
-
-💼 [[Meu LinkedIn](https://www.linkedin.com/in/bruno-leite-485415151/)]
-
 ### 🎓 Desenvolvedor em formação | Tecnologia, Dados e Desenvolvimento Web
 
 💻**Cursando Análise e Desenvolvimento de Sistemas (ADS) - 4º Semestre 🚀**  
@@ -42,7 +39,7 @@ Além da área de desenvolvimento, possuo experiência prática com **manutenç�
 🌱 Spring Boot
 🔀 Git & GitHub
 🚀 Desenvolvimento de projetos Full Stack
-
+💼 [[Meu LinkedIn](https://www.linkedin.com/in/bruno-leite-485415151/)]
 ---
 ## 🚀 Projetos
 
