@@ -24,22 +24,7 @@ Além da área de desenvolvimento, possuo experiência prática com **manutenç�
 🎯 **Meu objetivo:** evoluir constantemente como desenvolvedor e, futuramente, atuar profissionalmente como **Desenvolvedor Back-End**.
 
 ---
-
 ## 🛠️ Tecnologias & Conhecimentos
-
-<div align="center">
-
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-
-</div>
-
-### 📚✅ Conhecimentos e tecnologias
 ---
 🧠 Lógica de Programação
 🔢 Algoritmos
@@ -80,39 +65,3 @@ Estou utilizando este GitHub para documentar minha evolução na programação e
 Possuo experiência prática com manutenção de computadores, incluindo diagnóstico de problemas, configuração de sistemas e suporte técnico.
 
 Essa experiência também contribuiu para desenvolver minha capacidade de **análise, resolução de problemas e aprendizado de novas tecnologias**.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Brmaced&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brmaced&layout=compact&langs_count=7&theme=react"/>
-
-</div>
-
----
-
-## 📈 Minha jornada
-
-```text
-Lógica de Programação
-        ↓
-     Algoritmos
-        ↓
-       Java
-        ↓
-       Python
-        ↓
-Programação Orientada a Objetos
-        ↓
- Banco de Dados | SQL | MySQL
-        ↓
-    Spring Boot <- Estou aqui
-        ↓
-      APIs REST
-        ↓
-   Desenvolvimento
-      Back-End 🚀
