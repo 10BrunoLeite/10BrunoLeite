@@ -18,7 +18,7 @@
 
 Tenho interesse em compreender não apenas a linguagem, mas também os fundamentos que fazem parte da construção de aplicações, como **lógica de programação, algoritmos, orientação a objetos, estruturas de dados e bancos de dados**.
 
-Além da área de desenvolvimento, possuo experiência prática com **manutenção de computadores e suporte técnico 🐘 PHP 🐍 Python 🗄️ SQL e MySQL 🌐 Desenvolvimento Web ⚛️ React 🟢 Node.js 📊 Power BI 🔧 Git e GitHub 🧠 Lógica e arquitetura de sistemas**
+Além da área de desenvolvimento, possuo experiência prática com **manutenção de computadores e suporte técnico 🐘 PHP 🐍 Python 🗄️ SQL e MySQL 🌐 Desenvolvimento Web 🟨 JavaScript 🌐 HTML5 & CSS3 🔧 Git e GitHub 🧠 Lógica e arquitetura de sistemas**
 
 🎯 **Meu objetivo:** evoluir constantemente como desenvolvedor e, futuramente, atuar profissionalmente como **Desenvolvedor Back-End**.
 
